@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.263d0936.chunk.css",
-    "main.js": "/static/js/main.36d4d6df.chunk.js",
-    "main.js.map": "/static/js/main.36d4d6df.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.50427bf6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.50427bf6.js.map",
-    "static/js/2.6b426632.chunk.js": "/static/js/2.6b426632.chunk.js",
-    "static/js/2.6b426632.chunk.js.map": "/static/js/2.6b426632.chunk.js.map",
-    "static/js/3.886db9c1.chunk.js": "/static/js/3.886db9c1.chunk.js",
-    "static/js/3.886db9c1.chunk.js.map": "/static/js/3.886db9c1.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.263d0936.chunk.css.map": "/static/css/main.263d0936.chunk.css.map",
-    "static/js/2.6b426632.chunk.js.LICENSE.txt": "/static/js/2.6b426632.chunk.js.LICENSE.txt"
+    "main.css": "/beer/static/css/main.f3e8667b.chunk.css",
+    "main.js": "/beer/static/js/main.90394ba3.chunk.js",
+    "main.js.map": "/beer/static/js/main.90394ba3.chunk.js.map",
+    "runtime-main.js": "/beer/static/js/runtime-main.be029e01.js",
+    "runtime-main.js.map": "/beer/static/js/runtime-main.be029e01.js.map",
+    "static/js/2.117fbdfa.chunk.js": "/beer/static/js/2.117fbdfa.chunk.js",
+    "static/js/2.117fbdfa.chunk.js.map": "/beer/static/js/2.117fbdfa.chunk.js.map",
+    "static/js/3.1d886525.chunk.js": "/beer/static/js/3.1d886525.chunk.js",
+    "static/js/3.1d886525.chunk.js.map": "/beer/static/js/3.1d886525.chunk.js.map",
+    "index.html": "/beer/index.html",
+    "static/css/main.f3e8667b.chunk.css.map": "/beer/static/css/main.f3e8667b.chunk.css.map",
+    "static/js/2.117fbdfa.chunk.js.LICENSE.txt": "/beer/static/js/2.117fbdfa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.50427bf6.js",
-    "static/js/2.6b426632.chunk.js",
-    "static/css/main.263d0936.chunk.css",
-    "static/js/main.36d4d6df.chunk.js"
+    "static/js/runtime-main.be029e01.js",
+    "static/js/2.117fbdfa.chunk.js",
+    "static/css/main.f3e8667b.chunk.css",
+    "static/js/main.90394ba3.chunk.js"
   ]
 }
