@@ -4,6 +4,16 @@ import { useState, useEffect } from 'react';
 import moment from 'moment';
 
 const Main = () => {
+    // const {
+    //     name,
+    //     first_brewed,
+    //     tagline,
+    //     beerImg,
+    //     abv,
+    //     ph,
+    //     ibu,
+    //     description,
+    // } = props.beers
 
     const [searchTerm, setSearchTerm] = useState("")
     const [beers, setBeers] = useState([])
@@ -11,7 +21,8 @@ const Main = () => {
     const beer = 
     useEffect(() => {
         // 1. This code only ever gets run once, and never again!
-        fetch(`https://api.punkapi.com/v2/beers`)
+        // Getting it from local to avoid CORS problems
+        fetch(`beer/beers.json`)
         .then((response => {
             return response.json()
         }))
