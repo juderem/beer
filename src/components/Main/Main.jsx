@@ -22,7 +22,7 @@ const Main = () => {
     useEffect(() => {
         // 1. This code only ever gets run once, and never again!
         // Getting it from local to avoid CORS problems
-        fetch(`beer/beers.json`)
+        fetch(`beers.json`)
         .then((response => {
             return response.json()
         }))
